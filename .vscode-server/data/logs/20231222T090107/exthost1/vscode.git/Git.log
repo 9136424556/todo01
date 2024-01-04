@@ -1,0 +1,23 @@
+2023-12-22 09:01:16.274 [info] ログ レベル: Info
+2023-12-22 09:01:16.274 [info] Git の検証が検出されました: "git"
+2023-12-22 09:01:16.274 [info] "git" から Git "2.34.1" を使用しています
+2023-12-22 09:01:16.274 [info] > git rev-parse --show-toplevel [35ms]
+2023-12-22 09:01:16.274 [info] > git rev-parse --git-dir --git-common-dir [8ms]
+2023-12-22 09:01:16.274 [info] Open repository: /home/harkeye/coachtech/php
+2023-12-22 09:01:16.325 [info] > git rev-parse --show-toplevel [14ms]
+2023-12-22 09:01:16.328 [info] > git config --get commit.template [30ms]
+2023-12-22 09:01:16.391 [info] > git rev-parse --show-toplevel [49ms]
+2023-12-22 09:01:16.767 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [381ms]
+2023-12-22 09:01:16.793 [warning] ENOENT: no such file or directory, open '/home/harkeye/coachtech/php/.git/refs/remotes/origin/main'
+2023-12-22 09:01:16.842 [info] > git rev-parse --show-toplevel [410ms]
+2023-12-22 09:01:16.865 [info] > git rev-parse refs/remotes/origin/main [73ms]
+2023-12-22 09:01:16.886 [info] > git rev-parse --show-toplevel [22ms]
+2023-12-22 09:01:16.947 [info] > git status -z -uall [65ms]
+2023-12-22 09:01:17.044 [info] > git check-ignore -v -z --stdin [47ms]
+2023-12-22 09:01:17.054 [info] > git show --textconv :src/code quizアプリ php04/index.php [21ms]
+2023-12-22 09:01:17.190 [info] > git ls-files --stage -- /home/harkeye/coachtech/php/src/code quizアプリ php04/index.php [147ms]
+2023-12-22 09:01:17.198 [info] > git config --get commit.template [181ms]
+2023-12-22 09:01:17.241 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2023-12-22 09:01:17.336 [warning] ENOENT: no such file or directory, open '/home/harkeye/coachtech/php/.git/refs/remotes/origin/main'
+2023-12-22 09:01:17.339 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2023-12-22 09:01:17.357 [info] > git status -z -uall [4ms]

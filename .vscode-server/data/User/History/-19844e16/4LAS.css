@@ -1,0 +1,11 @@
+body{
+    width: 360px;
+    
+}
+.card__content{
+    box-sizing: content-box;
+}
+.card__cord{
+    font-size: 14px;
+    background-color: #088;
+}

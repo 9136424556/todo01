@@ -1,0 +1,33 @@
+2023-12-14 21:15:34.717 [info] 
+
+
+
+
+2023-12-14 21:15:34.717 [info] Extension host agent started.
+2023-12-14 21:15:35.645 [info] [127.0.0.1][f7e14446][ManagementConnection] New connection established.
+2023-12-14 21:15:35.648 [info] [127.0.0.1][5be3dc30][ExtensionHostConnection] New connection established.
+2023-12-14 21:15:35.691 [info] [127.0.0.1][2e23bf9e][ManagementConnection] New connection established.
+2023-12-14 21:15:36.383 [info] [127.0.0.1][5be3dc30][ExtensionHostConnection] <1431> Launched Extension Host Process.
+2023-12-14 21:15:36.713 [info] [127.0.0.1][fe4e07fa][ExtensionHostConnection] New connection established.
+2023-12-14 21:15:36.795 [info] [127.0.0.1][fe4e07fa][ExtensionHostConnection] <1446> Launched Extension Host Process.
+2023-12-14 21:50:26.258 [info] [127.0.0.1][2e23bf9e][ManagementConnection] The client has reconnected.
+2023-12-14 21:50:28.876 [info] [127.0.0.1][2e23bf9e][ManagementConnection] The client has reconnected.
+2023-12-14 22:50:47.128 [info] [127.0.0.1][fe4e07fa][ExtensionHostConnection] The client has reconnected.
+2023-12-14 22:50:47.538 [info] [127.0.0.1][f7e14446][ManagementConnection] The client has reconnected.
+2023-12-14 22:50:49.357 [info] [127.0.0.1][5be3dc30][ExtensionHostConnection] The client has reconnected.
+2023-12-14 22:52:47.798 [info] [127.0.0.1][fe4e07fa][ExtensionHostConnection] The client has reconnected.
+2023-12-14 22:52:53.998 [info] [127.0.0.1][2e23bf9e][ManagementConnection] The client has reconnected.
+2023-12-14 22:52:54.316 [info] [127.0.0.1][fe4e07fa][ExtensionHostConnection] The client has reconnected.
+2023-12-14 22:52:57.834 [info] [127.0.0.1][f7e14446][ManagementConnection] The client has reconnected.
+2023-12-14 22:52:58.090 [info] [127.0.0.1][5be3dc30][ExtensionHostConnection] The client has reconnected.
+2023-12-15 00:06:14.968 [info] [127.0.0.1][fe4e07fa][ExtensionHostConnection] The client has reconnected.
+2023-12-15 00:06:15.943 [info] [127.0.0.1][2e23bf9e][ManagementConnection] The client has reconnected.
+2023-12-15 00:06:16.902 [info] [127.0.0.1][f7e14446][ManagementConnection] The client has reconnected.
+2023-12-15 00:06:17.484 [info] [127.0.0.1][5be3dc30][ExtensionHostConnection] The client has reconnected.
+2023-12-15 01:09:57.377 [info] [127.0.0.1][2e23bf9e][ManagementConnection] The client has reconnected.
+2023-12-15 01:09:58.347 [info] [127.0.0.1][fe4e07fa][ExtensionHostConnection] The client has reconnected.
+2023-12-15 01:09:58.963 [info] [127.0.0.1][f7e14446][ManagementConnection] The client has reconnected.
+2023-12-15 01:09:59.413 [info] [127.0.0.1][5be3dc30][ExtensionHostConnection] The client has reconnected.
+2023-12-15 01:14:21.862 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-12-15 01:14:21.966 [info] [127.0.0.1][2e23bf9e][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

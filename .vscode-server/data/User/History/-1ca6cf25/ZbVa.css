@@ -1,0 +1,14 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.card__img img{
+    padding: 15px 25px;
+}
+.box{
+    background-color: white;
+    margin-right: 10px;
+    width: 30%;
+    height:30%;
+    font-size: 40px;
+}

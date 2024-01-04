@@ -1,0 +1,56 @@
+2023-12-18 13:49:41.238 [info] 
+
+
+
+
+2023-12-18 13:49:41.286 [info] Extension host agent started.
+2023-12-18 13:49:41.473 [info] [127.0.0.1][f7c35793][ManagementConnection] New connection established.
+2023-12-18 13:49:43.253 [info] [127.0.0.1][568d4e0d][ManagementConnection] New connection established.
+2023-12-18 13:49:43.279 [info] [127.0.0.1][6b9db4f2][ExtensionHostConnection] New connection established.
+2023-12-18 13:49:43.368 [info] [127.0.0.1][6b9db4f2][ExtensionHostConnection] <16817> Launched Extension Host Process.
+2023-12-18 13:49:44.890 [info] [127.0.0.1][66d90c2d][ExtensionHostConnection] New connection established.
+2023-12-18 13:49:45.119 [info] [127.0.0.1][66d90c2d][ExtensionHostConnection] <16848> Launched Extension Host Process.
+2023-12-18 13:49:55.689 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-12-18 13:49:55.693 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-12-18 13:49:56.185 [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+2023-12-18 13:49:56.267 [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-ja
+2023-12-18 13:50:00.439 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-ja
+2023-12-18 13:50:02.023 [info] Extracted extension to file:///home/harkeye/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.85.2023121309: ms-ceintl.vscode-language-pack-ja
+2023-12-18 13:50:02.041 [info] Renamed to /home/harkeye/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.85.2023121309
+2023-12-18 13:50:02.053 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ja
+2023-12-18 13:50:02.120 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2023-12-18 13:50:02.391 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-ja-1.84.2023111509
+2023-12-18 13:50:02.914 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
+2023-12-18 13:50:07.635 [info] Downloaded extension to file:///home/harkeye/.vscode-server/data/CachedExtensionVSIXs/c4333537-2d17-4080-95c7-fabe2a97bd95
+2023-12-18 13:50:07.645 [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+2023-12-18 13:50:07.646 [info] Installing the extension without checking dependencies and pack ms-ceintl.vscode-language-pack-ja
+2023-12-18 13:50:07.663 [info] Deleted existing extension from disk ms-ceintl.vscode-language-pack-ja /home/harkeye/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.85.2023121309
+2023-12-18 13:50:08.349 [info] Extracted extension to file:///home/harkeye/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.85.2023121309: ms-ceintl.vscode-language-pack-ja
+2023-12-18 13:50:08.364 [info] Renamed to /home/harkeye/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.85.2023121309
+2023-12-18 13:50:08.369 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ja
+2023-12-18 13:50:08.385 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2023-12-18 13:50:08.590 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
+2023-12-18 17:04:41.073 [info] [127.0.0.1][4f2b0914][ManagementConnection] New connection established.
+2023-12-18 17:04:41.997 [info] [127.0.0.1][7334f2bc][ExtensionHostConnection] New connection established.
+2023-12-18 17:04:42.406 [info] [127.0.0.1][7334f2bc][ExtensionHostConnection] <76749> Launched Extension Host Process.
+2023-12-18 18:58:30.140 [info] [127.0.0.1][6b9db4f2][ExtensionHostConnection] The client has reconnected.
+2023-12-18 18:58:30.881 [info] [127.0.0.1][66d90c2d][ExtensionHostConnection] The client has reconnected.
+2023-12-18 18:58:32.351 [info] [127.0.0.1][568d4e0d][ManagementConnection] The client has reconnected.
+2023-12-18 18:58:32.597 [info] [127.0.0.1][f7c35793][ManagementConnection] The client has reconnected.
+2023-12-18 18:58:33.237 [info] [127.0.0.1][7334f2bc][ExtensionHostConnection] The client has reconnected.
+2023-12-18 18:58:33.763 [info] [127.0.0.1][4f2b0914][ManagementConnection] The client has reconnected.
+2023-12-18 19:58:50.915 [info] [127.0.0.1][f7c35793][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-18 19:58:51.112 [info] [127.0.0.1][6b9db4f2][ExtensionHostConnection] <16817> Extension Host Process exited with code: 0, signal: null.
+2023-12-18 19:58:54.788 [info] [127.0.0.1][4f2b0914][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-18 19:58:55.070 [info] [127.0.0.1][7334f2bc][ExtensionHostConnection] <76749> Extension Host Process exited with code: 0, signal: null.
+2023-12-18 21:22:34.762 [info] [127.0.0.1][ffa33090][ManagementConnection] New connection established.
+2023-12-18 21:22:36.317 [info] [127.0.0.1][1ad5d14b][ExtensionHostConnection] New connection established.
+2023-12-18 21:22:36.331 [info] [127.0.0.1][1ad5d14b][ExtensionHostConnection] <48830> Launched Extension Host Process.
+2023-12-18 21:22:52.509 [info] [127.0.0.1][ffa33090][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-18 21:22:52.666 [info] [127.0.0.1][1ad5d14b][ExtensionHostConnection] <48830> Extension Host Process exited with code: 0, signal: null.
+2023-12-18 22:33:10.877 [info] [127.0.0.1][66d90c2d][ExtensionHostConnection] The client has reconnected.
+2023-12-18 22:33:11.707 [info] [127.0.0.1][568d4e0d][ManagementConnection] The client has reconnected.
+2023-12-18 22:55:39.904 [info] [127.0.0.1][568d4e0d][ManagementConnection] The client has reconnected.
+2023-12-18 22:55:40.493 [info] [127.0.0.1][66d90c2d][ExtensionHostConnection] The client has reconnected.
+2023-12-19 00:03:20.414 [info] [127.0.0.1][66d90c2d][ExtensionHostConnection] The client has reconnected.
+2023-12-19 00:03:21.017 [info] [127.0.0.1][568d4e0d][ManagementConnection] The client has reconnected.

@@ -1,0 +1,13 @@
+.text{
+    font-size: 14px;
+}
+.emphasis{
+    font-size: 32px;
+    font-weight: bold;
+    color: red;
+}
+.text2{
+    font-size: 14px;
+    font-weight: bold;
+  background: linear-gradient(transparent 75%, yellow 75%);
+}

@@ -1,0 +1,17 @@
+2023-12-18 21:22:40.624 [info] ログ レベル: Info
+2023-12-18 21:22:40.624 [info] Git の検証が検出されました: "git"
+2023-12-18 21:22:40.624 [info] "git" から Git "2.34.1" を使用しています
+2023-12-18 21:22:40.624 [info] > git rev-parse --show-toplevel [30ms]
+2023-12-18 21:22:46.699 [info] > git rev-parse --show-toplevel [3ms]
+2023-12-18 21:22:46.712 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-12-18 21:22:46.733 [info] Open repository: /home/harkeye/coachtech/php
+2023-12-18 21:22:46.755 [info] > git config --get commit.template [9ms]
+2023-12-18 21:22:46.793 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [41ms]
+2023-12-18 21:22:46.799 [warning] ENOENT: no such file or directory, open '/home/harkeye/coachtech/php/.git/refs/remotes/origin/main'
+2023-12-18 21:22:46.801 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2023-12-18 21:22:46.823 [info] > git status -z -uall [16ms]
+2023-12-18 21:22:46.855 [info] > git config --get commit.template [8ms]
+2023-12-18 21:22:46.856 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-12-18 21:22:46.865 [warning] ENOENT: no such file or directory, open '/home/harkeye/coachtech/php/.git/refs/remotes/origin/main'
+2023-12-18 21:22:46.865 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2023-12-18 21:22:46.874 [info] > git status -z -uall [3ms]

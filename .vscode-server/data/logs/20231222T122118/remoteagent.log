@@ -1,0 +1,11 @@
+2023-12-22 12:21:18.899 [info] 
+
+
+
+
+2023-12-22 12:21:18.970 [info] Extension host agent started.
+2023-12-22 12:21:19.843 [info] [127.0.0.1][fff5a190][ManagementConnection] New connection established.
+2023-12-22 12:21:20.718 [info] [127.0.0.1][b60076e9][ExtensionHostConnection] New connection established.
+2023-12-22 12:21:20.781 [info] [127.0.0.1][b60076e9][ExtensionHostConnection] <789> Launched Extension Host Process.
+2023-12-22 13:05:14.219 [info] [127.0.0.1][fff5a190][ManagementConnection] The client has reconnected.
+2023-12-22 13:05:14.649 [info] [127.0.0.1][b60076e9][ExtensionHostConnection] The client has reconnected.

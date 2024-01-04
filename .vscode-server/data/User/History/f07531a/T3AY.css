@@ -1,0 +1,10 @@
+*{
+    line-height: 1;
+}
+
+.nuber__child{
+    padding-left: 40px;
+}
+p:nth-child(n+2) {
+    color: blue;
+}

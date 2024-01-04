@@ -1,0 +1,8 @@
+.text{
+    font-size: 14px;
+}
+.emphasis{
+    font-size: 32px;
+    font-weight: bold;
+    color: red;
+}

@@ -1,0 +1,18 @@
+2023-12-19 17:29:18.497 [info] 
+
+
+
+
+2023-12-19 17:29:18.586 [info] Extension host agent started.
+2023-12-19 17:29:18.892 [info] [127.0.0.1][6a839646][ManagementConnection] New connection established.
+2023-12-19 17:29:18.907 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-ja /home/harkeye/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.84.2023111509
+2023-12-19 17:29:20.401 [info] [127.0.0.1][909075ee][ExtensionHostConnection] New connection established.
+2023-12-19 17:29:20.633 [info] [127.0.0.1][909075ee][ExtensionHostConnection] <882> Launched Extension Host Process.
+2023-12-19 20:41:18.448 [info] [127.0.0.1][909075ee][ExtensionHostConnection] The client has reconnected.
+2023-12-19 20:41:20.275 [info] [127.0.0.1][6a839646][ManagementConnection] The client has reconnected.
+2023-12-19 20:46:03.545 [info] [127.0.0.1][6a839646][ManagementConnection] The client has reconnected.
+2023-12-19 20:46:04.099 [info] [127.0.0.1][909075ee][ExtensionHostConnection] The client has reconnected.
+2023-12-19 20:46:10.293 [info] [127.0.0.1][909075ee][ExtensionHostConnection] The client has reconnected.
+2023-12-19 20:46:12.069 [info] [127.0.0.1][6a839646][ManagementConnection] The client has reconnected.
+2023-12-19 23:42:39.589 [info] [127.0.0.1][6a839646][ManagementConnection] The client has reconnected.
+2023-12-19 23:42:40.207 [info] [127.0.0.1][909075ee][ExtensionHostConnection] The client has reconnected.

@@ -1,0 +1,14 @@
+2023-12-17 20:22:16.085 [info] Extension host with pid 3751 started
+2023-12-17 20:22:16.127 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-12-17 20:22:16.127 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-17 20:22:16.197 [error] Error: EEXIST: file already exists, open '/home/harkeye/.vscode-server/data/User/workspaceStorage/8e05db0ccd87054021ca01e9a8bb7a71/vscode.lock'
+2023-12-17 20:22:16.672 [info] Lock '/home/harkeye/.vscode-server/data/User/workspaceStorage/8e05db0ccd87054021ca01e9a8bb7a71/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-12-17 20:22:16.683 [info] Lock '/home/harkeye/.vscode-server/data/User/workspaceStorage/8e05db0ccd87054021ca01e9a8bb7a71/vscode.lock': The pid 1602 appears to be gone.
+2023-12-17 20:22:16.683 [info] Lock '/home/harkeye/.vscode-server/data/User/workspaceStorage/8e05db0ccd87054021ca01e9a8bb7a71/vscode.lock': Deleting a stale lock.
+2023-12-17 20:22:16.772 [info] Lock '/home/harkeye/.vscode-server/data/User/workspaceStorage/8e05db0ccd87054021ca01e9a8bb7a71/vscode.lock': Lock acquired.
+2023-12-17 20:22:17.024 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-17 20:22:17.886 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-17 20:22:17.890 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-17 20:22:19.792 [info] Eager extensions activated
+2023-12-17 20:22:19.797 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-17 20:22:19.802 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

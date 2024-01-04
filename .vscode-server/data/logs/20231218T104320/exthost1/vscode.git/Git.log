@@ -1,0 +1,6 @@
+2023-12-18 10:43:29.396 [info] ログ レベル: Info
+2023-12-18 10:43:29.396 [info] Git の検証が検出されました: "git"
+2023-12-18 10:43:29.396 [info] "git" から Git "2.34.1" を使用しています
+2023-12-18 10:43:29.396 [info] > git rev-parse --show-toplevel [45ms]
+2023-12-18 10:43:29.396 [info] > git rev-parse --show-toplevel [20ms]
+2023-12-18 10:43:29.396 [info] > git rev-parse --show-toplevel [2ms]

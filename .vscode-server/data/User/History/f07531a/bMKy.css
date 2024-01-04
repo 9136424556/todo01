@@ -1,0 +1,14 @@
+*{
+    line-height: 1;
+}
+
+.nuber__child{
+    padding-left: 40px;
+}
+.nuber__parent:nth-of-type(3n) {
+    color: red;
+}
+    
+.nuber__child:nth-of-type(n+2) {
+    color: blue;
+}

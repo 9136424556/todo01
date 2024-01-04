@@ -1,0 +1,141 @@
+.text{
+    font-size: 14px;
+}
+.emphasis{
+    font-size: 32px;
+    font-weight: bold;
+    color: red;
+}
+.text2{
+    font-size: 14px;
+    font-weight: bold;
+  background: linear-gradient(transparent 75%, yellow 75%);
+}
+.link{
+    font-size: 14px;
+    color: blue;
+}
+.title-inner{
+    font-size: 24px;
+    font-weight: bold;
+    border-bottom: 3px dashed #000;
+    padding-bottom: 1px;
+}
+.title3{
+    padding: 5px;
+    border-left: 3px solid #000;
+    background: #f4f4f4;
+    width: 120px;
+}
+.title4{
+    position: relative;
+    display: inline-block;
+    padding: 0 55px;
+}
+.title4::before, .title4::after{
+    content: '';
+    position: absolute;
+    top: 50%;
+    display: inline-block;
+    width: 45px;
+    height: 1px;
+    background-color: black;
+}
+.title4::before{
+    left: 0;
+}
+.title4::after{
+    right: 0;
+}
+.card{
+    width: 300px;
+    padding: 20px 12px 10px;
+    border: 1px solid #e9eaea;
+    border-radius: 3px;
+}
+.title5{
+    font: 20px;
+}
+.text3{
+    padding: 10px 0;
+    font-size: 14px;
+}
+.link2{
+    display: block;
+    text-align: center;
+    margin: 10px 0;
+    color:#d7b071;
+    font-size: 14px;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+}
+img{
+    width: 100px;
+    height: auto;
+}
+.card2{
+    width: 20%;
+    cursor: pointer;
+    border: 1px solid #e9eaea;
+    border-radius: 3px;
+}
+.text-box{
+    padding: 15px;
+}
+.content-img{
+    padding:10px 0;
+    text-align: center;
+    background: #e1f3ff; 
+}
+.date{
+    font-size: 10px;
+    margin-top: 5px;
+}
+table{
+    border-collapse: collapse;
+    width: 50%;
+}
+table tr:last-child{
+    border-bottom: 1px solid #ddd;
+}
+table th{
+    text-align: center;
+    padding: 20px 0;
+    border-right: solid 1px #ddd;
+    border-left: solid 1px #ddd;
+}
+table th:nth-child(1){
+ background-color: #ddd;
+}
+table th:nth-child(2){
+    background-color: #d7b071;
+    color: #fff;
+}
+table th:nth-child(3){
+    background-color: #d7b071;
+    color: #fff;
+}
+table tr:nth-child(2) td{
+    font-size: 20px;
+    padding-top: 20px;
+}
+table tr:nth-child(3) td{
+    padding-bottom: 20px;
+}
+table td{
+    text-align: center;
+    padding: 10px 0;
+    border-right: solid 1px #ddd;
+    border-left: solid 1px #ddd;
+}
+table td a {
+    color: #005fff;
+    padding: 7px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+}

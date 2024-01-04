@@ -1,0 +1,9 @@
+.start{
+    width: 200px;
+    padding: 10px;
+    border-radius:30px;
+    color: #ff5800 , #8b00be, rgba(255, 0, 0, 0.2);
+    box-shadow: 0 5px 0 rgba(255, 0, 0, 0.2);
+    box-sizing: content-box;
+    margin: 100px auto;
+}

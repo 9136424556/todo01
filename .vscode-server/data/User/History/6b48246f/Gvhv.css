@@ -1,0 +1,29 @@
+.text{
+    font-size: 14px;
+}
+.emphasis{
+    font-size: 32px;
+    font-weight: bold;
+    color: red;
+}
+.text2{
+    font-size: 14px;
+    font-weight: bold;
+  background: linear-gradient(transparent 75%, yellow 75%);
+}
+.link{
+    font-size: 14px;
+    color: blue;
+}
+.title-inner{
+    font-size: 24px;
+    font-weight: bold;
+    border-bottom: 3px dashed #000;
+    padding-bottom: 1px;
+}
+.title3{
+    padding: 5px;
+    border-left: 3px solid #000;
+    background: #f4f4f4;
+    width: 120px;
+}

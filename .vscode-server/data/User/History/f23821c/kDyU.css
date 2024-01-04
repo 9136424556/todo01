@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .bg {
+    background: url("../img/firstview.jpg") no-repeat bottom;
+    background-size:  cover;
+   
+    height: 700px;
+  }

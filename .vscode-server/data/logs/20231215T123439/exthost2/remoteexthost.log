@@ -1,0 +1,16 @@
+2023-12-15 12:34:46.557 [info] Extension host with pid 898 started
+2023-12-15 12:34:46.557 [error] Error: EEXIST: file already exists, open '/home/harkeye/.vscode-server/data/User/workspaceStorage/37187cf2d547fbb6b8ed290c75f2da00/vscode.lock'
+2023-12-15 12:34:46.604 [info] Lock '/home/harkeye/.vscode-server/data/User/workspaceStorage/37187cf2d547fbb6b8ed290c75f2da00/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-12-15 12:34:46.649 [info] Lock '/home/harkeye/.vscode-server/data/User/workspaceStorage/37187cf2d547fbb6b8ed290c75f2da00/vscode.lock': The pid 1431 appears to be gone.
+2023-12-15 12:34:46.649 [info] Lock '/home/harkeye/.vscode-server/data/User/workspaceStorage/37187cf2d547fbb6b8ed290c75f2da00/vscode.lock': Deleting a stale lock.
+2023-12-15 12:34:46.686 [info] Lock '/home/harkeye/.vscode-server/data/User/workspaceStorage/37187cf2d547fbb6b8ed290c75f2da00/vscode.lock': Lock acquired.
+2023-12-15 12:34:47.201 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-15 12:34:47.205 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-12-15 12:34:47.820 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-15 12:34:49.089 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-15 12:34:49.089 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-15 12:34:50.850 [info] Eager extensions activated
+2023-12-15 12:34:50.851 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-15 12:34:50.852 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-15 12:34:52.909 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-15 12:34:52.909 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'

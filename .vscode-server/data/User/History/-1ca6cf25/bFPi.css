@@ -1,0 +1,28 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 25px;
+}
+.card__img img{
+    width: 100%;
+}
+.cord-dl{
+  font-size: 18px;
+  margin-bottom: 30px;
+  font-weight: 400;
+}
+.cord-title{
+    padding: 5px 10px;
+    background: #088;
+    margin-bottom: 15px;
+    display: inline-block;
+    color: #fff;
+}
+.box{
+    width: 30%;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
+}
+.cord-tag{
+    display: inline-block;
+    color: #088;
+}

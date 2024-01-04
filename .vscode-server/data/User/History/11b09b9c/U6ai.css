@@ -1,0 +1,28 @@
+.header {
+    background: #ff188a;
+    height: 70px;
+    color: #fff;
+  }
+  
+  .wrap {
+    column-count: 3;
+    width: 90%;
+    margin: 0 auto
+  }
+  
+  .item {
+    break-inside: avoid;
+    text-align: center;
+  }
+  
+  .item img {
+    width: 100%;
+    margin-top: 30px;
+  }
+  
+  .footer {
+    background: #f7ea00;
+    height: 70px;
+    color: #fff;
+    margin-top: 30px;
+  }

@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+.parrent{
+    width: 100px;
+    height: 50px;
+    background-color: red;
+}
+
+.viewpoint{
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+}

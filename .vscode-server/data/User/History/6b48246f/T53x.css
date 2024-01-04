@@ -1,0 +1,46 @@
+.text{
+    font-size: 14px;
+}
+.emphasis{
+    font-size: 32px;
+    font-weight: bold;
+    color: red;
+}
+.text2{
+    font-size: 14px;
+    font-weight: bold;
+  background: linear-gradient(transparent 75%, yellow 75%);
+}
+.link{
+    font-size: 14px;
+    color: blue;
+}
+.title-inner{
+    font-size: 24px;
+    font-weight: bold;
+    border-bottom: 3px dashed #000;
+    padding-bottom: 1px;
+}
+.title3{
+    padding: 5px;
+    border-left: 3px solid #000;
+    background: #f4f4f4;
+    width: 120px;
+}
+.title4{
+    position: relative;
+    display: inline-block;
+    padding: 0 55px;
+}
+.title4::before, .title4::after{
+    content: '';
+    position: absolute;
+    top: 50%;
+    display: inline-block;
+    width: 45px;
+    height: 1px;
+    background-color: black;
+}
+.title4::before{
+    left: 0;
+}

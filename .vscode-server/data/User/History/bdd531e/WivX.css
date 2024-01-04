@@ -1,0 +1,30 @@
+.header {
+    background: #ff188a;
+    height: 70px;
+    color: #fff;
+  }
+  
+  .main {
+    height: 600px;
+    display: flex;
+  }
+  
+  .content {
+    background: #00adb9;
+    height: 100%;
+    color: #fff;
+    width: 80%;
+  }
+  
+  .sidebar {
+    background: #e5c4f8;
+    height: 100%;
+    color: #fff;
+    width: 20%;
+  }
+  
+  .footer {
+    background: #f7ea00;
+    height: 70px;
+    color: #fff;
+  }

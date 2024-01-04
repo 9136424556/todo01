@@ -1,0 +1,13 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    background-color: yellow;
+    justify-content: space-between;
+}
+.box{
+    background-color: red;
+    margin-right: 20px;
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+}

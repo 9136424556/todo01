@@ -1,0 +1,33 @@
+.grid{
+    display: grid;
+    grid-template-rows: 300px 300px 100px 200px;
+    grid-template-columns: 2fr 2fr 2fr 1fr;
+}
+.grid div{
+    text-align: center;
+    font-size: 24px;
+    color: #fff;
+}
+.box1{
+    grid-column: 1/2;
+    grid-row: 1/2;
+    background: #004e4e;
+}
+.box2{
+    grid-column: 1/2;
+    grid-row: 2/3;
+    background: #088;
+}
+.box3{
+    grid-column: 2/4;
+    grid-row: 1/2;
+    background: #049fb3;
+}
+.box4{
+    grid-column: 2/4;
+    grid-row: 2/3;
+    background: #5bb;
+}
+.box5{
+    
+}

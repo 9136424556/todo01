@@ -1,0 +1,15 @@
+.header{
+    background: #ff186a;
+    height: 70px;
+    color: #fff;
+}
+.main{
+    background: #00adb9;
+    height: 600px;
+    color: #fff;
+}
+.footer{
+    background: #f7ea00;
+    height: 70px;
+    color: #fff;
+}
